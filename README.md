@@ -19,7 +19,7 @@ The website highlights my **backend expertise**, my **projects**, and my passion
 
 **Backend:**
 
-* Node.js (depending on the project folder)
+* Node.js (for contact form email functionality)
  
 
 **Other Tools:**
@@ -36,6 +36,7 @@ The website highlights my **backend expertise**, my **projects**, and my passion
 * Centralized mobile menu (hamburger)
 * Projects section with backend API integration
 * Blog section for sharing technical insights
+* Contact form: Sends messages to email Via Node.js backend
 
 ---
 
