@@ -44,7 +44,7 @@ The website highlights my **backend expertise**, my **projects**, and my passion
 
 ```
 portfolio-website/
-├── backend/        # Backend API (Django or Node.js)
+├── backend/        # Backend API (jNode.js)
 ├── frontend/       # React frontend
 ├── .gitignore      # Ignore node_modules, env files, build
 ├── README.md       # Project documentation
