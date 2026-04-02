@@ -245,7 +245,7 @@ function Hero() {
         {/* LEFT IMAGE */}
         <div className="flex justify-center md:justify-start">
           <motion.img
-            src="/profile.jpg"
+            src={process.env.PUBLIC_URL + "/profile.jpg"}
             alt="profile"
             initial={{ opacity: 0, x: -50 }}
             animate={{ opacity: 1, x: 0 }}
